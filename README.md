@@ -1,1 +1,1 @@
-# QuickSettings
+All ON/OFF Settings now bindable

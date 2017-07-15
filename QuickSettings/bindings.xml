@@ -1,0 +1,59 @@
+<Bindings>
+	<Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
+		<Category name="QuickSettings">
+		
+			<Action name="QUICKSETTINGS_5_46"><Down>QuickSettings_SetSetting(SETTING_TYPE_GRAPHICS, GRAPHICS_SETTING_CLUTTER_2D)</Down></Action>
+		
+			<Action name="QUICKSETTINGS_2_1"><Down>QuickSettings_SetSetting(SETTING_TYPE_CAMERA, CAMERA_SETTING_SMOOTHING)</Down></Action>
+			<Action name="QUICKSETTINGS_2_0"><Down>QuickSettings_SetSetting(SETTING_TYPE_CAMERA, CAMERA_SETTING_INVERT_Y)</Down></Action>
+			<Action name="QUICKSETTINGS_2_13"><Down>QuickSettings_SetSetting(SETTING_TYPE_CAMERA, CAMERA_SETTING_FOV_CHANGES_ALLOWED)</Down></Action>
+			<Action name="QUICKSETTINGS_2_15"><Down>QuickSettings_SetSetting(SETTING_TYPE_CAMERA, CAMERA_SETTING_ASSASSINATION_CAMERA)</Down></Action>
+			
+			<Action name="QUICKSETTINGS_15_5"><Down>QuickSettings_SetSetting(SETTING_TYPE_GAMEPAD, GAMEPAD_SETTING_GAMEPAD_PREFERRED)</Down></Action>
+			
+			<Action name="QUICKSETTINGS_10_32"><Down>QuickSettings_SetSetting(SETTING_TYPE_TUTORIAL, TUTORIAL_ENABLED_SETTING_ID)</Down></Action>
+			
+			<Action name="QUICKSETTINGS_6_1"><Down>QuickSettings_SetSetting(SETTING_TYPE_LOOT, LOOT_SETTING_AOE_LOOT)</Down></Action>
+			<Action name="QUICKSETTINGS_6_0"><Down>QuickSettings_SetSetting(SETTING_TYPE_LOOT, LOOT_SETTING_AUTO_LOOT)</Down></Action>
+			<Action name="QUICKSETTINGS_6_2"><Down>QuickSettings_SetSetting(SETTING_TYPE_LOOT, LOOT_SETTING_AUTO_LOOT_STOLEN)</Down></Action>
+			<Action name="QUICKSETTINGS_6_4"><Down>QuickSettings_SetSetting(SETTING_TYPE_LOOT, LOOT_SETTING_AUTO_ADD_TO_CRAFT_BAG)</Down></Action>
+			<Action name="QUICKSETTINGS_6_3"><Down>QuickSettings_SetSetting(SETTING_TYPE_LOOT, LOOT_SETTING_LOOT_HISTORY)</Down></Action>
+			
+			<Action name="QUICKSETTINGS_7_20"><Down>QuickSettings_SetSetting(SETTING_TYPE_COMBAT, COMBAT_SETTING_MONSTER_TELLS_ENABLED)</Down></Action>
+			<Action name="QUICKSETTINGS_7_22"><Down>QuickSettings_SetSetting(SETTING_TYPE_COMBAT, COMBAT_SETTING_ROLL_DODGE_DOUBLE_TAP)</Down></Action>
+			<Action name="QUICKSETTINGS_7_24"><Down>QuickSettings_SetSetting(SETTING_TYPE_COMBAT, COMBAT_SETTING_CLAMP_GROUND_TARGET_ENABLED)</Down></Action>
+			<Action name="QUICKSETTINGS_7_25"><Down>QuickSettings_SetSetting(SETTING_TYPE_COMBAT, COMBAT_SETTING_PREVENT_ATTACKING_INNOCENTS)</Down></Action>
+			
+			<Action name="QUICKSETTINGS_14_0"><Down>QuickSettings_SetSetting(SETTING_TYPE_CHAT_BUBBLE, CHAT_BUBBLE_SETTING_ENABLED)</Down></Action>
+			
+			<Action name="QUICKSETTINGS_13_5"><Down>QuickSettings_SetSetting(SETTING_TYPE_IN_WORLD, IN_WORLD_UI_SETTING_HIDE_HELM)</Down></Action>
+			<Action name="QUICKSETTINGS_13_7"><Down>QuickSettings_SetSetting(SETTING_TYPE_IN_WORLD, IN_WORLD_UI_SETTING_HIDE_MOUNT_STAMINA_UPGRADE)</Down></Action>
+			<Action name="QUICKSETTINGS_13_8"><Down>QuickSettings_SetSetting(SETTING_TYPE_IN_WORLD, IN_WORLD_UI_SETTING_HIDE_MOUNT_SPEED_UPGRADE)</Down></Action>
+			<Action name="QUICKSETTINGS_13_9"><Down>QuickSettings_SetSetting(SETTING_TYPE_IN_WORLD, IN_WORLD_UI_SETTING_HIDE_MOUNT_INVENTORY_UPGRADE)</Down></Action>
+			<Action name="QUICKSETTINGS_13_0"><Down>QuickSettings_SetSetting(SETTING_TYPE_IN_WORLD, IN_WORLD_UI_SETTING_TARGET_GLOW_ENABLED)</Down></Action>
+			<Action name="QUICKSETTINGS_13_2"><Down>QuickSettings_SetSetting(SETTING_TYPE_IN_WORLD, IN_WORLD_UI_SETTING_INTERACTABLE_GLOW_ENABLED)</Down></Action>
+			<Action name="QUICKSETTINGS_13_24"><Down>QuickSettings_SetSetting(SETTING_TYPE_IN_WORLD, UI_SETTING_AUTO_DECLINE_DUEL_INVITES)</Down></Action>
+			
+			<Action name="QUICKSETTINGS_0_8"><Down>QuickSettings_SetSetting(SETTING_TYPE_NAMEPLATES, NAMEPLATE_TYPE_ALL_NAMEPLATES)</Down></Action>
+			<Action name="QUICKSETTINGS_0_32"><Down>QuickSettings_SetSetting(SETTING_TYPE_NAMEPLATES, NAMEPLATE_TYPE_SHOW_PLAYER_TITLES)</Down></Action>
+			<Action name="QUICKSETTINGS_0_33"><Down>QuickSettings_SetSetting(SETTING_TYPE_NAMEPLATES, NAMEPLATE_TYPE_SHOW_PLAYER_GUILDS)</Down></Action>
+			
+			<Action name="QUICKSETTINGS_3_22"><Down>QuickSettings_SetSetting(SETTING_TYPE_UI, UI_SETTING_ULTIMATE_NUMBER)</Down></Action>
+			<Action name="QUICKSETTINGS_3_7"><Down>QuickSettings_SetSetting(SETTING_TYPE_UI, UI_SETTING_SHOW_QUEST_TRACKER)</Down></Action>
+			<Action name="QUICKSETTINGS_3_10"><Down>QuickSettings_SetSetting(SETTING_TYPE_UI, UI_SETTING_SHOW_FRAMERATE)</Down></Action>
+			<Action name="QUICKSETTINGS_3_11"><Down>QuickSettings_SetSetting(SETTING_TYPE_UI, UI_SETTING_SHOW_LATENCY)</Down></Action>
+			<Action name="QUICKSETTINGS_3_12"><Down>QuickSettings_SetSetting(SETTING_TYPE_UI, UI_SETTING_FRAMERATE_LATENCY_LOCK)</Down></Action>
+			<Action name="QUICKSETTINGS_3_13"><Down>QuickSettings_SetSetting(SETTING_TYPE_UI, UI_SETTING_COMPASS_QUEST_GIVERS)</Down></Action>
+			<Action name="QUICKSETTINGS_3_18"><Down>QuickSettings_SetSetting(SETTING_TYPE_UI, UI_SETTING_SHOW_WEAPON_INDICATOR)</Down></Action>
+			<Action name="QUICKSETTINGS_3_19"><Down>QuickSettings_SetSetting(SETTING_TYPE_UI, UI_SETTING_SHOW_ARMOR_INDICATOR)</Down></Action>
+			<Action name="QUICKSETTINGS_3_2"><Down>QuickSettings_SetSetting(SETTING_TYPE_UI, UI_SETTING_SHOW_QUEST_BESTOWER_INDICATORS)</Down></Action>
+			
+			<Action name="QUICKSETTINGS_19_0"><Down>QuickSettings_SetSetting(SETTING_TYPE_SUBTITLES, SUBTITLE_SETTING_ENABLED)</Down></Action>
+			
+			<Action name="QUICKSETTINGS_11_2"><Down>QuickSettings_SetSetting(SETTING_TYPE_AUDIO, AUDIO_SETTING_MUSIC_ENABLED)</Down></Action>
+			<Action name="QUICKSETTINGS_11_16"><Down>QuickSettings_SetSetting(SETTING_TYPE_AUDIO, AUDIO_SETTING_SOUND_ENABLED)</Down></Action>
+			<Action name="QUICKSETTINGS_11_12"><Down>QuickSettings_SetSetting(SETTING_TYPE_AUDIO, AUDIO_SETTING_BACKGROUND_AUDIO)</Down></Action>
+			
+		</Category>
+	</Layer>
+</Bindings>
