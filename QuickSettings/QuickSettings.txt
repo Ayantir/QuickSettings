@@ -5,8 +5,8 @@
 ; You can read the full terms at https://account.elderscrollsonline.com/add-on-terms
 
 ## Title: QuickSettings
-## APIVersion: 100019 100020
-## Version: 4
+## APIVersion: 100021
+## Version: 5
 ## Author: Ayantir
 ## Description: Bind Key to quickly change a setting of the game
 
